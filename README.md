@@ -1,4 +1,16 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm wema purity</h1>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
+
+- 🌱 I’m currently learning **frontend development**
+
+- 📫 How to reach me **songwapurity@gmail.com**
+
+- ⚡ Fun fact **I think i'm funny,very curious and a perfectionist**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 ###
 
